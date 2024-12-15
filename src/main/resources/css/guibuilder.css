@@ -1,0 +1,9 @@
+root.{
+    -fx-background-color:null;
+}
+
+.content-pane-{
+    -fx-background-color:#0b4580;
+    -fx-background-image:url("../img/bg_black.jpg");
+    -fx-background-size:cover;
+}
